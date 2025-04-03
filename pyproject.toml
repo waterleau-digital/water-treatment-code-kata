@@ -5,13 +5,12 @@ description = "Water treatment domain code kata!"
 requires-python = ">= 3.10"
 readme = {file = "README.txt", content-type = "text/markdown"}
 
-
 authors = [
-  {name = "Lucas de la Rocha", email = "Lucas.RochaDeOliveira@waterleau.com"},
+  {name = "Lucas Rocha", email = "Lucas.RochaDeOliveira@waterleau.com"},
   {name = "Maria Rico", email = "maria.morillo@waterleau.com"},
 ]
 
 maintainers = [
-  {name = "Lucas de la Rocha", email = "Lucas.RochaDeOliveira@waterleau.com"},
+  {name = "Lucas Rocha", email = "Lucas.RochaDeOliveira@waterleau.com"},
   {name = "Maria Rico", email = "maria.morillo@waterleau.com"},
 ]
