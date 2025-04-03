@@ -24,17 +24,17 @@ Pretty simple, right? Well, here’s where it gets interesting:
 
 - Once the `service_life` has passed, `efficiency` degrades twice as fast.
 
-- The `efficiency` of an item can never be negative and will never exceed 50.
+- The `efficiency` of an item can never be negative and will never exceed `50`.
 
 - An `Aerator` is a critical component that improves in efficiency as its `service_life` approaches zero.
 
-- A `Tank`, as a stable part of the system, does not degrade in efficiency over time and its `efficiency` is always 100. 
+- A `Tank`, as a stable part of the system, does not degrade in efficiency over time and its `efficiency` is always `100`. 
 
-- A `Filter` increases in efficiency based on the remaining service_life:
+- A `Filter` increases in `efficiency` based on the remaining `service_life`:
 
-    - `efficiency` increases by 2 when there are 10 days or fewer remaining, and by 3 when there are 5 days or fewer remaining, 
+    - `efficiency` increases by `2` when there are 10 days or fewer remaining, and by `3` when there are 5 days or fewer remaining, 
 
-    - but once the service_life ends, efficiency drops to `0`
+    - but once the `service_life` ends, efficiency drops to `0`
 
 - All other items (`Pump`, `Valve`, …) degrade in `efficiency` as their `service_life` runs out.
 
