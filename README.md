@@ -2,7 +2,7 @@
 ---
 ## Introduction 
 
-Hi, and welcome to the technical challenge! In this exercice, we are going to simulate the operation and maintenance of a wastewater treatment plant. Don’t panic! We don’t expect you to have any knowledge of the industry. 
+Hi, and welcome to the technical challenge! In this exercise, we are going to simulate the operation and maintenance of a wastewater treatment plant. Don’t panic! We don’t expect you to have any knowledge of the industry. 
 
 In our system, the equipment items continuously degrade in performance (efficiency) as they age, and some items require special care as their service life decreases. Hence, we have a system in place that updates automatically the efficiency of our items every day. It was initially developed by a set of Engineers in the company before the Developers took over. 
 
